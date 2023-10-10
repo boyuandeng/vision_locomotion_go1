@@ -3,7 +3,11 @@
 This repo builds on the code from [vision_locomotion](https://github.com/antonilo/vision_locomotion)
 
 ## Usage
-Completely follow the steps of the original warehouse for installation and use
+Completely follow the steps of the original warehouse for installation
+
+`First:`If you want to build this repo, please note that change the [path](./controller/CMakeLists.txt) in line 8 and 22,23, which is your torch package
+
+`Second:`
 
 `tips:`There may be a `touch` issue, like:
 ```
@@ -25,5 +29,5 @@ Correcting [header files](./controller/include/) and [CMakeList.txt](./controlle
 Finally, the code was successfully deployed on go1, achieving standing, walking, and obstacle crossing.
 
 see:
-[![IMAGE ALT TEXT HERE](./figure.png)](https://youtu.be/enUWW-HN4iI?si=hKq9QN-5COx_rRit)
+[![IMAGE ALT TEXT HERE](./media/figure.png)](https://youtu.be/enUWW-HN4iI?si=hKq9QN-5COx_rRit)
 
