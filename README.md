@@ -16,7 +16,7 @@ as the installed version of `c-torch` is older. You can refer to [this](https://
 
 ## Change
 ### First
-Change the control library version of a1 to go1
+Changing the control library version from a1 to go1
 
 
 ### second
