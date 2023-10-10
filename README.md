@@ -7,7 +7,6 @@ Completely follow the steps of the original warehouse for installation
 
 `First:`If you want to build this repo, please note that change the [path](./controller/CMakeLists.txt) in line 8 and 22,23, which is your torch package
 
-`Second:`
 
 `tips:`There may be a `touch` issue, like:
 ```
